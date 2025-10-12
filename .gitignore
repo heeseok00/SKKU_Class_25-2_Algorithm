@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.gdoc
+*.lnk
+**/0. 알고리즘 프로젝트 공유폴더/**
+*w6_student_management_program.py_result.pdf
